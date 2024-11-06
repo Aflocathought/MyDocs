@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Mydocs/",
+  base: "/MyDocs/",
   title: "MyDocs",
   description: "文档啊，文档",
   themeConfig: {
